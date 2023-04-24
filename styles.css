@@ -1,11 +1,13 @@
 
 /* Your CSS Code here. */
-.fluid{
+.container-fluid{
 	width:570px;
 	height:500px;
 /* 	border:1px solid black; */
 	display:flex;
-	justify-content:space-between
+	justify-content:space-between;
+	display:inline;
+	
 }
 .box{
 	width:150px;
