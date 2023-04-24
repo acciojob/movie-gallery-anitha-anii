@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.fluid{
+	width:570px;
+	height:500px;
+/* 	border:1px solid black; */
+	display:flex;
+	justify-content:space-between
+}
+.box{
+	width:150px;
+	height:150px;
+
+}
